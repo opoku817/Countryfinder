@@ -26,8 +26,9 @@ input or text field as the entry point in order to reveal the preferred request.
 		</ul>	
 	</nav>
 	
-<h2><p> "Without continual growth and progress,
+<h2> "Without continual growth and progress,
  such words as improvement, achievement, and success have no meaning." by Benjamin Franklin </p></h2>	
+ <form>
  <h2> Select your form of </h2>
 <select size="1" name="socialmedia" id="contacts">
 	<option> Not Applicable </option>
@@ -37,3 +38,16 @@ input or text field as the entry point in order to reveal the preferred request.
 	<option> LinkedIn </option>
 	</select>
 	<br><br>
+	
+<input type ="submit" value="Submit!">    <input type="reset" value = "Clear"/>	
+</main>
+<footer>
+	<p>	
+		Copyright &copy; 2020 Opoku817
+		<br>
+		<a href="Email Adminstrator">
+			opoku817@xxx.com </a>
+	</p>
+</footer>
+</body>
+</html>
